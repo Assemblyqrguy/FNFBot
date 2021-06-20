@@ -1,5 +1,5 @@
-# FNFBot Rewrite
-## The better version of FNFBot
+## SHAGGYBot: Shaggy Edition
+## The better version of FNFBot Ft. Shaggy
 
 ### WARNING!
 
@@ -7,13 +7,17 @@ If FNFBot doesn't hit notes perfectly, don't worry, as it doesn't know where to 
 
 ### What is FNFBot?
 
-FNFBot is a bot program that lets users automatically play Friday Night Funkin' charts.
+An improved version of FNF bot that lets you play the Shaggy mod
 
 ### How do I use FNFBot?
 
 Video Tutorial:
 
 https://www.youtube.com/watch?v=i7pte79xABg&feature=youtu.be&ab_channel=KadeDev
+
+### Warning (again)
+
+May be diffrent due to 3x the arrows
 
 FNFBot has 3 main sections, as shown here:
 
